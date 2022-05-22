@@ -31,4 +31,4 @@ let email="seba0031@algonquinlive.com";
 let output;
 
 output="My name is " + first_name + " " + last_name + ". You can contact me at " + email + ".";
-console.log(output);
+alert(output);
